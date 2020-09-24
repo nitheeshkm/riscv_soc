@@ -3,6 +3,7 @@
 
 ## Memory downgrade
 [Nexys 4 DDR Xilinx MIG Project](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-4-ddr/nexys4ddr_mig_prj.zip)
+> This project seems to work but does not take into account the AXI interface needed for the MIG... (maybe to be done manually?)
 
 ## Cloning
 ```
