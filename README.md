@@ -1,9 +1,5 @@
 # RISC-V Test SoC
-> Github: http://github.com/ultraembedded/riscv_soc
-
-> A basic RISC-V test SoC with Timer, UART, SPI and GPIO peripherals...
-
-> **The goal is to port it to the Nexys4 DDR: pin mapping, DDR3 downgraded to DDR2.**
+> Github: http://github.com/ultraembedded/riscv_soc. A basic RISC-V test SoC with Timer, UART, SPI and GPIO peripherals... **The goal is to port it to the Nexys4 DDR: pin mapping, DDR3 downgraded to DDR2.**
 
 ## Memory downgrade
 [Nexys 4 DDR Xilinx MIG Project](https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/start)
